@@ -1,0 +1,1 @@
+Me and my group implemented a multi-agent simulation and studied how Theory of Mind (ToM) influences the infections and compliance of agents in a COVID-19 pandemic setting. The simulation is implemented on NetLogo.
